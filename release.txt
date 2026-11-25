@@ -1,4 +1,4 @@
 SCRAPMIND-UPDATE-1
-20261125
-71a4c8ae6f311e55d0fb4e00ad62866e8b189ba6907b4d9fed2e6c0690c514c0
-scrapmind_ashfang_hotfix.html
+20261126
+467a86a22d889e64357000342f901398ecabfce86ac8e39d173a2c37a6d4e385
+scrapmind_dragon_portals.html
