@@ -1,4 +1,4 @@
 SCRAPMIND-UPDATE-1
-20261127
-05695bc507c54b862727fcb952ddd4fc1e2ec8accd69a2e711d38ba2e29af5e0
-scrapmind_town_release_notice.html
+20261128
+67d6597d15585c23543488655a16181feecf08520be9e4f27090eda5dd47d805
+scrapmind_pilot_hub.html
