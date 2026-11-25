@@ -1,4 +1,4 @@
 SCRAPMIND-UPDATE-1
-20261129
-269b483269329ab08829045ac2b3444375c42f2ae4940bfb8c60672a2271faa2
-scrapmind_cinderwick_market.html
+20261130
+b090af5b3e6d0392533028c894613c93e32e8dcabfb6eb35ee8a053ab5330288
+scrapmind_character_layout.html
