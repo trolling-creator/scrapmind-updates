@@ -1,4 +1,4 @@
 SCRAPMIND-UPDATE-1
-20261126
-467a86a22d889e64357000342f901398ecabfce86ac8e39d173a2c37a6d4e385
-scrapmind_dragon_portals.html
+20261127
+05695bc507c54b862727fcb952ddd4fc1e2ec8accd69a2e711d38ba2e29af5e0
+scrapmind_town_release_notice.html
