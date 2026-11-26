@@ -1,4 +1,4 @@
 SCRAPMIND-UPDATE-1
-20261202
-c7cd30a13232a1bc0aedfcc880b6c30d84a2f08ce02e89ff6c00596862806c76
-scrapmind_reforged.html
+20261203
+e4dd6c9a3b21cef649ce9f429011f85425613f35efe68e1721befb4213a4a4ea
+scrapmind_creature_sculpt.html
