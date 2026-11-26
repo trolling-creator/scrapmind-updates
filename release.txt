@@ -1,4 +1,4 @@
 SCRAPMIND-UPDATE-1
-20261201
-1aafe8f20e5dd018e86764672aac4f39e66dec81f60d5099416947fd50601843
-scrapmind_frontier.html
+20261202
+c7cd30a13232a1bc0aedfcc880b6c30d84a2f08ce02e89ff6c00596862806c76
+scrapmind_reforged.html
