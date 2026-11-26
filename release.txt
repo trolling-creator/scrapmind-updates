@@ -1,4 +1,4 @@
 SCRAPMIND-UPDATE-1
-20261130
-b090af5b3e6d0392533028c894613c93e32e8dcabfb6eb35ee8a053ab5330288
-scrapmind_character_layout.html
+20261201
+1aafe8f20e5dd018e86764672aac4f39e66dec81f60d5099416947fd50601843
+scrapmind_frontier.html
